@@ -21,8 +21,8 @@ Estamos agrupando todo para luego filtrar.
 
 ```JS
 [
-  { $group: ... },
-  { $match: ... }
+  { $match: ... },
+  { $group: ... }
 ]
 ```
 
